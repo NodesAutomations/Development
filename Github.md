@@ -7,14 +7,6 @@
 - User Close #issueNo in commit message 
 - so when you push this commit to master branch github will automatically closes the issue
 
-### Collapsible text
-<details>
-  <summary> This is main title </summary>
-  <pre>
-  - Line 1
-  - Line 2
-  - Line 3
-
 ### Use Task List in Issue
 To create a task list, preface list items with a regular space character followed by [ ]. To mark a task as complete, use [x].
 ```
@@ -24,3 +16,15 @@ To create a task list, preface list items with a regular space character followe
 ```
 
 Ref : [Issue](https://github.com/NodesAutomations/Development/issues/4)
+
+
+### Collapsible text
+<details>
+  <summary> This is main title </summary>
+  <pre>
+  - Line 1
+  - Line 2
+  - Line 3
+
+
+
