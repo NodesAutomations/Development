@@ -14,6 +14,8 @@ To create a task list, preface list items with a regular space character followe
 - [ ] https://github.com/octo-org/octo-repo/issues/740
 - [ ] Add delight to the experience when all tasks are complete :tada:
 ```
+Additionally you can also create new issues from task list which will also shows if linked issue is open/close.
+you can also drag to reorder task list
 
 Ref : [Issue](https://github.com/NodesAutomations/Development/issues/4)
 
