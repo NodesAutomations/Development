@@ -1,0 +1,12 @@
+## Courses to Learn
+- Excel
+  -  [Create an Excel Dashboard with Power Query (Office 365)](https://www.skillshare.com/classes/Create-an-Excel-Dashboard-with-Power-Query-Office-365/914262307?via=search-layout-grid)
+- Access
+  - [Learn Microsoft Access - The Complete Microsoft Access Course for Beginners](https://www.skillshare.com/classes/Learn-Microsoft-Access-The-Complete-Microsoft-Access-Course-for-Beginners/140221495?via=search-layout-grid)
+- Canava
+  - [Canva for Entrepreneurs : Create an Infographic](https://www.skillshare.com/classes/Canva-for-Entrepreneurs-Create-an-Infographic/1873832548?via=search-layout-grid)
+  - [Create Irresistible YouTube Thumbnails with Canva](https://www.skillshare.com/classes/Create-Irresistible-YouTube-Thumbnails-with-Canva/765883629?via=search-layout-grid)
+- DataBase
+  - [SQL 101: Databases for Beginners](https://www.skillshare.com/classes/SQL-101-Databases-for-Beginners/504526778?via=search-layout-grid) 
+- C#
+  - [Learn C#, SQL And Software Development](https://www.skillshare.com/classes/Learn-C-SQL-And-Software-Development/1824713389?via=search-layout-grid)
