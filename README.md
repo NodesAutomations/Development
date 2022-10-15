@@ -36,4 +36,5 @@ Repo to Keep Track of All Learning research and Improvement Related to software 
 - It's very good for somethign which require heavy note takings and good visuals like books notes, tutorial notes, learning something new
 - it's good for someting like food recipies when you need text with pictures
 - It's also good for oranize notes for specific events or travel
+- Or keep track of different exercises
 - Dashboard to have general progress of current goals
