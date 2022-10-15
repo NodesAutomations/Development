@@ -17,7 +17,11 @@ Repo to Keep Track of All Learning research and Improvement Related to software 
 - mobile app is useless
 
 #### Personal
-
+- it's god send to keep track of my projects, I just don't want anythign else. I am already satisfied, plus there much more things that i don't even know yet
+- it can handle larger files so it's superb to store my client tutorials
+- Project relese system to keep track of each release, where i can keep track of each file sent to client
+- Issue tracker is there to keep track of every idea and problem i have for perticular projects
+- It's very fast and reliable so far
 
 ### Notion
 #### Pros
@@ -29,3 +33,6 @@ Repo to Keep Track of All Learning research and Improvement Related to software 
 - not good with handign files or media
 
 #### Personal
+- It's very good for somethign which require heavy note takings and good visuals like books notes, tutorial notes, learning something new
+- It's also good for oranize notes for specific events or travel
+- Dashboard to have general progress of current goals
