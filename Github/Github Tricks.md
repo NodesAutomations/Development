@@ -2,12 +2,7 @@
 - Just Use `:` and start typing emoji name and Popup menu will appear with emoji icon and name 
 - [Emoji CheatSheet](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md)
 
-### Fuzzy Serch to find any file in repo
-- Open repo Main Page
-- Press <kbd>T</kbd> on keyboard
-- Start typing to Search
-
-### Automatically close Issue with commit
+ ### Automatically close Issue with commit
 - User Close #issueNo in commit message 
 - so when you push this commit to master branch github will automatically closes the issue
 
