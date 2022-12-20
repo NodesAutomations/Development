@@ -14,3 +14,24 @@
 
 ## Project Structure
  
+## Class
+```mermaid
+classDiagram
+class Class1{
+  +Property1
+  +Method1()
+}
+
+class Class2{
+	+Property2
+  +Method2()
+}
+
+class Class3{
+	+Property3
+  +Method3()
+}
+
+Class1 <|--Class3
+Class2 <|--Class3
+```
