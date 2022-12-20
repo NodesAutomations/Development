@@ -23,12 +23,7 @@ GitHub gist allows you to store code snippets which are version controlled and e
 user:<username> hello world
 ```
 
-<aside>
-🔥 **Tip :** Keep all script in to separate Gist to make it easily searchable only Keep related Files in single Gist
+> 🔥 **Note** Keep all script in to separate Gist to make it easily searchable only Keep related Files in single Gist
 
-</aside>
 
-<aside>
-🔥 **Tip :** Git hub Gist is just Simplified Git repo, You can clone GitHub gist just like full GitHub repo (This is specially useful when you need to upload binary to GitHub gist)
-
-</aside>
+> 🔥 **Note** Git hub Gist is just Simplified Git repo, You can clone GitHub gist just like full GitHub repo (This is specially useful when you need to upload binary to GitHub gist)
