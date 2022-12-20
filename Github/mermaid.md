@@ -11,8 +11,6 @@
     AxisBankCurrent-->|Spending|JupiterBank[Jupiter Bank];
     JupiterBank[Jupiter Bank]-->AxisBankCredit[Axis Bank Credit Card];
 ```
-
-## Project Structure
  
 ## Class
 ```mermaid
@@ -34,4 +32,14 @@ class Class3{
 
 Class1 <|--Class3
 Class2 <|--Class3
+```
+```mermaid
+flowchart LR
+    A-->B
+    B-->C
+    C-->D
+    click A callback "Tooltip for a callback"
+    click B "https://www.github.com" "This is a tooltip for a link"
+    click A call callback() "Tooltip for a callback"
+    click B href "https://www.github.com" "This is a tooltip for a link"
 ```
