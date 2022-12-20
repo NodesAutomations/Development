@@ -33,6 +33,7 @@ class Class3{
 Class1 <|--Class3
 Class2 <|--Class3
 ```
+### Flowchar with different Styles
 ```mermaid
 flowchart LR
     id1(Start)-->id2(Stop)
