@@ -15,3 +15,8 @@ To create a task list, preface list items with a regular space character followe
 - [x] #6
 - [x] #7
 ```
+
+ ### Automatically close Issue with commit
+- User Close #issueNo in commit message 
+- so when you push this commit to master branch github will automatically closes the issue
+ 
