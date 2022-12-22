@@ -7,7 +7,11 @@ To create a task list, preface list items with a regular space character followe
 ```
 
 ### Link Other Issues
-Additionally you can also create new issues from task list which will also shows if linked issue is open/close.
-you can also drag to reorder task list
-
-Ref : [Issue](https://github.com/NodesAutomations/Development/issues/4)
+- Additionally you can also create new issues from task list which will also shows if linked issue is open/close.
+- you can also drag to reorder task list
+- Ref : [Issue](https://github.com/NodesAutomations/Development/issues/4)
+```
+- [x] #5
+- [x] #6
+- [x] #7
+```
