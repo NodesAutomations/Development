@@ -6,6 +6,7 @@
   - Line 2
   - Line 3
 </details>
+  
 ```markdown
 <details>
 <summary>Click to toggle contents of `code`</summary>
