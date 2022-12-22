@@ -1,15 +1,4 @@
-### Toggles
-```markdown
-<details>
-<summary>Click to toggle contents of `code`</summary>
-  Add Here Whatever YOu want
-</details>
-```
-### Use Emoji
-- Just Use `:` and start typing emoji name and Popup menu will appear with emoji icon and name 
-- [Emoji CheatSheet](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md)
-
-### Collapsible text
+### Collapsible text or Toggles
 <details>
   <summary> This is main title </summary>
   <pre>
@@ -17,6 +6,16 @@
   - Line 2
   - Line 3
 </details>
+```markdown
+<details>
+<summary>Click to toggle contents of `code`</summary>
+  Add Here Whatever YOu want
+</details>
+```
+  
+### Use Emoji
+- Just Use `:` and start typing emoji name and Popup menu will appear with emoji icon and name 
+- [Emoji CheatSheet](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md)
 
 ### Callouts
 
