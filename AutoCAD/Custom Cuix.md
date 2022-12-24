@@ -9,4 +9,8 @@
 - ![image](https://user-images.githubusercontent.com/60865708/209426968-6cf3a6d7-7f14-413f-94eb-4d8e2c640064.png)
 - Add New Panel, drag your command to this panel, Add new Tab and drag your panel to this tab
 - ![image](https://user-images.githubusercontent.com/60865708/209426989-85b914e5-03da-47ab-a4ca-d1e262e43a6e.png)
-
+- Save your cuix file, go back to all customization file, Drag your New Custom tab from Partial Customization to ACAD>Ribbon>Tabs and click ok
+- ![image](https://user-images.githubusercontent.com/60865708/209427339-57826a52-bfb1-426f-bbba-5dde2335abd9.png)
+- Now use `cuiload` command to unload your Custom cuix file and reload it again, you should able to see your custom tab on ribbon
+- ![image](https://user-images.githubusercontent.com/60865708/209427406-58f33f3b-acaa-4662-859b-4f34f80e48aa.png)
+- If you bump into any problem refer this youtube [Video](https://www.youtube.com/watch?v=68bbvQoMu-U)
