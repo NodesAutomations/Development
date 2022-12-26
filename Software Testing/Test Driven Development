@@ -1,7 +1,7 @@
 Test Driven Development also Called Test First Method. In TDD You write your test first before writing production Code.
 ```mermaid
 graph LR;
-A[Write Failing Test ]->B[Write Code to Make Test Pass];
+A[Write Failing Test ]-->B[Write Code to Make Test Pass];
 ```
 ### **Benefits of Test Driven Development**
 
