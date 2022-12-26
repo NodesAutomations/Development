@@ -17,6 +17,7 @@
 
 ### Navigation
 - <kbd>/</kbd> : Focus your cursor on the issues search bar.
+- <kbd>s</kbd> : Focus the search bar.
 - <kbd>g</kbd><kbd>c</kbd> : Go to code
 - <kbd>g</kbd><kbd>i</kbd> : Go to Issues
 - <kbd>g</kbd><kbd>p</kbd>  : Go to the Pull requests tab
