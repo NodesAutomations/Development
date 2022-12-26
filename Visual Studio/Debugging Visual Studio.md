@@ -60,10 +60,10 @@ Visual Studio uses some special variables during debugging, and the Immediate wi
 
 - `$exception` evaluates the currently thrown exception. It’s available at the point the exception is thrown, and also in the catch clause if it’s caught. That’s extremely useful in cases that you didn’t add the `Exception` parameter in the `catch` clause.
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/e3b60bb0-a750-4c7d-92c0-77ea4fce30a9/ExceptionVar.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/e3b60bb0-a750-4c7d-92c0-77ea4fce30a9/ExceptionVar.png)
+![image](https://user-images.githubusercontent.com/60865708/209536140-f8eaee13-5443-4870-9958-a75d7721cb5b.png)
 
 - `$returnvalue` shows the return value of the currently returned method. This is very useful if you didn’t assign that return value to a variable. In the example below, `cashier.PriceAfterDiscount()` returned 11. Note that you have to break on the method’s execution line and then step over (with F10) that line of code for `$returnvalue` to work. If you stepped into the method (with F11), then `$returnvalue` will be available when you step out. This is the time to make a note of that value because it will be gone as soon as you continue to the next line of code.
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/30b597f2-7a76-419a-91d9-19a55acedbd2/return-value.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/30b597f2-7a76-419a-91d9-19a55acedbd2/return-value.png)
+![image](https://user-images.githubusercontent.com/60865708/209536163-8778bc22-0462-4a76-b90a-808f96c52f8b.png)
 
 $user shows the current OS user and process information. This includes the machine name, the process privileges, and some other security-related details.
