@@ -29,3 +29,11 @@
 > Some important warning
 >> **Note**
 >> With a nested note
+
+### Tables
+Regular Table
+ - Cells can vary in width and do not need to be perfectly aligned within columns. There must be at least three hyphens in each column of the header row.
+| Command | Description |
+| --- | --- |
+| git status | List all new or modified files |
+| git diff | Show file differences that haven't been staged |
