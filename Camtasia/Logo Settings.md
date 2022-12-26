@@ -1,5 +1,0 @@
-- Opacity 70%
-- Scalling : Keep Aspect ratio and use smooth scaling
-- image Scale 13%
-- Offet Horizontal ; 2%
-- Offset Verticle :9%
