@@ -9,6 +9,7 @@
 - Client Repo : `Nodes_ClientName`
 
 ### Naming System Personal Repos to learn coding
+- Third Party Library : `SampleCode_LibraryName`
 - Forked Projects : `Code_ProjectName`
 - Book Code :`Book_NameOfBook`
 - Course Code : `Course_NameOfCourse`
