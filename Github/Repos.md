@@ -7,6 +7,7 @@
 ### Naming System for Internal Projects
 - Template Repo : `Template_LanguageOrSoftware_TemplateName`
 - Client Repo : `Nodes_ClientName`
+- Internal Library : `Nodes.NameOfLibrary`, for example `Nodes.UI`, `Nodes.Licensing`, `Nodes.Geometry`
 
 ### Code Repo or Software
 - Programming Language : `Name Of Programming language`
