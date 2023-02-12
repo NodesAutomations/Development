@@ -8,9 +8,13 @@
 - Template Repo : `Template_LanguageOrSoftware_TemplateName`
 - Client Repo : `Nodes_ClientName`
 
+### Code Repo or Software
+- Programming Language : `Name Of Programming language`
+- Software or Development Tools : Put everything into developement repo, One Folder per software
+
 ### Naming System Personal Repos to learn coding
 - Third Party Library : `SampleCode_LibraryName`
 - Forked Projects : `Code_ProjectName`
 - Book Code :`Book_NameOfBook`
 - Course Code : `Course_NameOfCourse`
-
+ 
