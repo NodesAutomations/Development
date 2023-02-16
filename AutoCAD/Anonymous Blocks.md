@@ -1,3 +1,4 @@
+- Refer : http://www.functionsense.com/2016/10/problem-anonymous-blocks-anonyminity-autocad/
 In my last post I indicated that I would follow up on a specific issue that I see happening on a [pandemic](https://en.wikipedia.org/wiki/Pandemic) level  – anonymous blocks.
 
 [Simple Definition of anonymity](http://www.merriam-webster.com/dictionary/anonymity): the quality or state of being unknown to most people : the quality or state of being anonymous
