@@ -15,7 +15,7 @@
 
 ### Naming System Personal Repos to learn coding
 - Third Party Library : `Sample_LibraryName`
-- Forked Projects : `Code_ProjectName`
+- Forked Projects : `Fork_ProjectName`
 - Book Code :`Book_NameOfBook`
 - Course Code : `Course_NameOfCourse`
  
