@@ -14,7 +14,7 @@
 - Software or Development Tools : Put everything into developement repo, One Folder per software
 
 ### Naming System Personal Repos to learn coding
-- Third Party Library : `Sample_LibraryName`
+- Sample code for Third Party Library / Software API: `Sample_LibraryName`
 - Forked Projects : `Fork_ProjectName`
 - Book Code :`Book_NameOfBook`
 - Course Code : `Course_NameOfCourse`
