@@ -11,3 +11,12 @@
 - set blur opacity to 10%
 - Adjust blur corner
 
+### Steps with Callout and annotation blur
+- add rectagular callout with white font
+- set background and border color to white
+- set background opacity to 10%
+- adjust border thickness if you want
+- now add blur from Annotations>blur and Highlight>Blur
+- make sure that center of blur and text callout is aligned properly
+- adjust blur width and height same as your callout by entering those value manuall
+- Done, you can groupthat part for easiar handing
