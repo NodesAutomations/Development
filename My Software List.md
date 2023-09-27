@@ -252,10 +252,10 @@ Windows Utilities 🧰
 
 Android 📱
 ==========
+### Software
+- [Android Debloter Tool](https://github.com/0x192/universal-android-debloater)
 
-* * * * *
-
-### Favorite Apps
+### Apps
 
 -   [YouTube Vanced](https://vanced.app/)
 -   [Blokada](https://blokada.org/)
