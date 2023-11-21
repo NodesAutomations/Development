@@ -2,7 +2,7 @@
 // © akrizary
 
 //@version=5
-indicator(title="MI Indicator", overlay=true)
+indicator(title="MI Indicator", overlay=true,timeframe = "1D")
 
 // GetChartHighest() returns the highest value of the given argument
 // for the entire chart. That `dataSeries` argument is optional and
