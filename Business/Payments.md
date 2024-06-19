@@ -9,6 +9,7 @@ swift code : AXISINBBXXX
 
 ### Recommended websites for direct pay
 ```
+https://www.remitly.com/
 https://wise.com
 https://www.airwallex.com/
 ```
