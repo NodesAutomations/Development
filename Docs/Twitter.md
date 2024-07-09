@@ -1,3 +1,5 @@
+## Search Filters
+
 ### Search withing specific profitl
 ```
 from:profileName "searchString"
