@@ -1,3 +1,5 @@
+## Settings
+
 ### Exclude files from side bar for python development
 ![image](https://github.com/NodesAutomations/Development/assets/60865708/4ce0b1fa-7cd4-4c27-af38-42e44e2355a7)
 - Open Visual studio code.
