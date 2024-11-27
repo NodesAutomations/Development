@@ -4,7 +4,7 @@
 - Make sure that `Override windows snap` is checked with , move windows using zone index and move windows between zone across all monitors
   
 ### Current shortcut Setup
-- `Alt` + `\sim` to activate fancy zone editor
+- `Alt` + `Tilde` to activate fancy zone editor
 - `Win` + `Left/Right Arrow`  to move active windows between zones
 - `CTRL` + `Win` + `ALT` + `Layout Shortcut Key (0/1/2/3)` to activate different layout
 - `Win` + `Up/Down Arrow` to switch between normal and  full size windows
