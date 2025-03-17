@@ -22,6 +22,21 @@ SendMode Input  ; Recommended for new scripts due to its superior speed and reli
 :o:$2sup::{U+00B2}
 :o:$3sup::{U+00B3}
 
+;Emojis
+:o:esmile::🙂
+:o:esad::😢
+:o:ecry::😭
+:o:elol::😂
+:o:ethink::🤔
+:o:eparty::🥳
+:o:ewink::😉
+:o:elove::❤️
+:o:efire::🔥
+:o:ethumbs::👍
+:o:ethumbsup::👍
+:o:ethumbsdown::👎
+:o:eshrug::🤷‍♂️
+
 ;Date
 :o:ddmmyy::
 FormatTime, CurrentDateTime,, dd-MM-yy
