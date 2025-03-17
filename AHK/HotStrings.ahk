@@ -1,4 +1,4 @@
-﻿#NoEnv  ; Recommended for performance and compatibility with future AutoHotkey releases.
+#NoEnv  ; Recommended for performance and compatibility with future AutoHotkey releases.
 ; #Warn  ; Enable warnings to assist with detecting common errors.
 SendMode Input  ; Recommended for new scripts due to its superior speed and reliability.
 #SingleInstance force
@@ -7,19 +7,14 @@ SendMode Input  ; Recommended for new scripts due to its superior speed and reli
 :o:nds::Nodes Automations
 
 ;Bookmarks
-:o:linkurl::https://linktr.ee/NodesAutomations
-:o:youtubeurl::https://www.youtube.com/NodesAutomations
-:o:nodesurl::https://www.nodesautomations.com
+:o:yurl::https://www.youtube.com/NodesAutomations
+:o:nurl::https://www.nodesautomations.com
 
 ;Emails
 :o:neml::vivek@nodesautomations.com
-:o:oeml::vivek_patel@outlook.com
 :o:heml::vkp.unique@hotmail.com
+:o:oeml::vivek_patel@outlook.com
 :o:geml::vkp.unique@gmail.com
-
-;UPI
-:o:gupi::vkp.unique@okaxis
-:o:nupi::nodes@axisbank
 
 ;Symbols
 :o:$ru::{U+20B9}
