@@ -1,1 +1,0 @@
-start "" "%USERPROFILE%\AppData\Local\Programs\Microsoft VS Code\Code.exe" .

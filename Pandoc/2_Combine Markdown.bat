@@ -1,1 +1,0 @@
-type docs\*.md > 0_input.md
