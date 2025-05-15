@@ -1,3 +1,5 @@
+# Fancy Zones
+
 ### Setup
 - for layout i am planning to use grid layout only, layout are categorized depending on number of parts
 - for example 1:1 means 2 column with same size, 1:3 means 2 columns with second one 3 times sizes of first one, additionally can also use 1:1:1 for 3 column setup  
