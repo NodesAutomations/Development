@@ -25,6 +25,16 @@ MouseIsOver(WinTitle)
 ;Key Remapping
 ~::Send {ASC 96}
 
+;Download folder
+#1::
+Run, C:\Users\%A_UserName%\downloads
+return
+
+;Repos folder
+#2:: 
+Run, C:\Users\%A_UserName%\source\repos
+return
+
 ;Direct Search
 #f::
    {
