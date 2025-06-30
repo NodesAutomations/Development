@@ -35,6 +35,11 @@ return
 Run, C:\Users\%A_UserName%\source\repos
 return
 
+;Media Library
+#3::
+Run, C:\Users\%A_UserName%\OneDrive - NodesAutomations\SYW\Media Library
+return
+
 ;Direct Search
 #f::
    {
