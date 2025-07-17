@@ -35,8 +35,13 @@ return
 Run, C:\Users\%A_UserName%\source\repos
 return
 
+;ClientData folder
+#3:: 
+Run, C:\Users\%A_UserName%\OneDrive - NodesAutomations\Client Data
+return
+
 ;Media Library
-#3::
+#4::
 Run, C:\Users\%A_UserName%\OneDrive - NodesAutomations\SYW\Media Library
 return
 
