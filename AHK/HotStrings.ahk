@@ -6,6 +6,10 @@ SendMode Input  ; Recommended for new scripts due to its superior speed and reli
 ;Company
 :o:nds::Nodes Automations
 
+;Git
+:0:gct::git clone https://github.com/NodesAutomations/Template_
+:0:gcvba::git clone https://github.com/NodesAutomations/Template_VBA
+
 ;Bookmarks
 :o:yurl::https://www.youtube.com/NodesAutomations
 :o:nurl::https://www.nodesautomations.com
