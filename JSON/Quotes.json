@@ -107,7 +107,7 @@
     {
       "quote": "\"It is not the strongest of the species that survives, nor the most intelligent, but the one most responsive to change.\"",
       "author": "Charles Darwin, A Life From Beginning to End"
-    },   
+    },
     {
       "quote": "\"Once you've got a task to do, it's better to do it than live with the fear of it.\"",
       "author": "Joe Abercrombie, The Blade Itself"
@@ -181,14 +181,6 @@
       "author": "Stephen R. Covey"
     },
     {
-      "quote": "\"You never know how strong you are until being strong is the only choice you have.\"",
-      "author": "Bob Marley"
-    },
-    {
-      "quote": "\"You never know how strong you are until being strong is the only choice you have.\"",
-      "author": "Bob Marley"
-    },
-    {
       "quote": "\"There are a million paths in this world but they can all be reduced to one. Improve yourself\"",
       "author": "Will Wight, Cradle"
     },
@@ -228,9 +220,13 @@
       "quote": "\"Trading is all about making quick decisions based on incomplete information and no matter how much experience we have, we can never know everything.\"",
       "author": "Nick Schmidt,twitter"
     },
-     {
+    {
       "quote": "\"I have two basic rules about winning in trading as well as in life: (1) If you don’t bet, you can’t win. (2) If you lose all your chips, you can’t bet. \"",
       "author": "Larry Hite, Trade like Stock Market Wizard"
     },
+    {
+      "quote": "\"And once the storm is over, you won’t remember how you made it through, how you managed to survive. You won’t even be sure, whether the storm is really over. But one thing is certain. When you come out of the storm, you won’t be the same person who walked in. That’s what this storm’s all about.\"",
+      "author": "Haruki Murakami, Kafka on the Shore"
+    }
   ]
 }
