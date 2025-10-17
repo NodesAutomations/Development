@@ -45,28 +45,27 @@ return
 Run, C:\Users\%A_UserName%\OneDrive - NodesAutomations\SYW\Media Library
 return
 
-;Direct Search
-#f::
-   {
-      Send, ^c
-      ClipBoard :=clipboard
-      Sleep 50
-      If (InStr(Clipboard, "https://"))
-         Run, %clipboard%`
-      Else
-         Run, https://www.google.com/search?q=%clipboard%
-      Return
-   }
+; Open Windows Terminal in current folder or default location
+#t::
+WinGetClass, class, A
+if (class = "CabinetWClass") ; File Explorer window
+{
+    ClipSaved := ClipboardAll
+    Clipboard := ""
+    Send, ^l        ; Focus address bar
+    Sleep, 100
+    Send, ^c        ; Copy current folder path
+    Sleep, 100
+    path := Clipboard
+    Clipboard := ClipSaved
 
-; Audio Output Device Toggle
-ScrollLock::
-   toggle:=!toggle ;toggles up and down states.
-   Run, mmsys.cpl
-   WinWait,Sound
-   if toggle
-      ControlSend,SysListView321, {Down 4}
-   Else
-      ControlSend,SysListView321, {Down 5}
-   ControlClick,&Set Default
-   ControlClick,OK
+    if (path != "")
+        Run, wt.exe -d "%path%"
+    else
+        Run, wt.exe
+}
+else
+{
+    Run, wt.exe
+}
 return
