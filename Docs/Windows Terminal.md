@@ -1,3 +1,4 @@
+```json
 {
     "$help": "https://aka.ms/terminal-documentation",
     "$schema": "https://aka.ms/terminal-profiles-schema",
@@ -346,3 +347,4 @@
     "themes": [],
     "useAcrylicInTabRow": true
 }
+```
