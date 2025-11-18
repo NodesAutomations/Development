@@ -1,12 +1,8 @@
-My Software List
-================
+# My Software List
 
-Development Tools 🔨
-====================
+## Development Tools 🔨
 
-* * * * *
-
-### **IDE**
+### IDE
 
 -   Visual Studio Community Edition 2019
     -   [CodeMaid](https://marketplace.visualstudio.com/items?itemName=SteveCadwallader.CodeMaid)
@@ -64,10 +60,7 @@ Development Tools 🔨
         -   [File Icon for GitHub and GitLab](https://chrome.google.com/webstore/detail/file-icon-for-github-and/ficfmibkjjnpogdcfhfokmihanoldbfe?hl=en)
     -   Bit Bucket
 
-Documentation and Editors 📋
-============================
-
-* * * * *
+## Documentation and Editors 📋
 
 ### Markdown Editors
 
@@ -103,8 +96,8 @@ Documentation and Editors 📋
 -   Just Color Picker Portable
 -   tinyPNG for image Compression
 
-<aside> 💡 Power Point Can be used to Record Screen When Needed Ribbon-->Insert-->Screen Recoding(media Group)
-
+<aside> 
+**💡 Power Point Can be used to Record Screen When Needed Ribbon-->Insert-->Screen Recoding(media Group)**
 </aside>
 
 ### Documentation
@@ -114,8 +107,7 @@ Documentation and Editors 📋
 -   DocFx
 -   Sphinx
 
-Programming 👨🏻‍💻
-===================
+## Programming 👨🏻‍💻
 
 ### .Net
 
@@ -144,10 +136,7 @@ Programming 👨🏻‍💻
 
 -   Encryption
 
-Web 🌐
-======
-
-* * * * *
+## Web 🌐
 
 ### Search
 
@@ -175,10 +164,7 @@ Web 🌐
 
     Api Key:p6LsSpRsZ5rY3QmX2pgkkTJcfwYVrsqS
 
-Structure Engineering 🌉
-========================
-
-* * * * *
+## Structure Engineering 🌉
 
 ### Structure Design
 
@@ -190,10 +176,7 @@ Structure Engineering 🌉
 -   ZwCad
 -   Autocad
 
-Windows Utilities 🧰
-====================
-
-* * * * *
+## Windows Utilities 🧰
 
 ### Browsers
 
@@ -250,12 +233,11 @@ Windows Utilities 🧰
 -   Calibre
 -   Kindle Mate
 
-Android 📱
-==========
+## Android 📱
+
 ### Software
 - [Android Debloter Tool](https://github.com/0x192/universal-android-debloater)
 
 ### Apps
-
 -   [YouTube Vanced](https://vanced.app/)
 -   [Blokada](https://blokada.org/)

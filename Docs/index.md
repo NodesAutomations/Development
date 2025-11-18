@@ -1,3 +1,0 @@
-# Development
-
-Developer Docs
