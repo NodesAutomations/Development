@@ -10,6 +10,7 @@ nav:
     - Excel: Excel.md
     - Google: Google.md
     - Powerpoint: Powerpoint.md
+    - PowerShell: PowerShell.md
     - PowerToys: PowerToys.md
     - Reddit: Reddit.md
     - Regular Expressions: Regular Expressions.md
@@ -52,6 +53,16 @@ nav:
       - Settings: Visual Studio/Settings.md
       - Visual Studio Clean Installation: Visual Studio/Visual Studio Clean Installation.md
       - Visual Studio Shortcuts: Visual Studio/Visual Studio Shortcuts.md
+    - Midas Civil:
+      - Files: Midas Civil/Files.md
+      - How to Merge Midas Model: Midas Civil/How to Merge Midas Model.md
+      - Midas Civil Installation: Midas Civil/Midas Civil Installation.md
+      - Moving Loads: Midas Civil/Moving Loads.md
+      - Utilize DXF import and export in Midas Civil: Midas Civil/Utilize DXF import and export in Midas Civil.md
+      - File Samples:
+        - Basic: Midas Civil/File Samples/Basic.md
+        - Floor Loads: Midas Civil/File Samples/Floor Loads.md
+        - Section file: Midas Civil/File Samples/Section file.md
 
 # Theme
 theme:
