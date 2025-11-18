@@ -31,6 +31,15 @@ nav:
       - Custom Tool Pallets: AutoCAD/Custom Tool Pallets.md
       - Open Autocad Files as read Only: AutoCAD/Open Autocad Files as read Only.md
       - Settings: AutoCAD/Settings.md
+    - Copilot:
+      - Copilot Basics: Copilot/1 Copilot Basics.md
+      - Copilot Instruction: Copilot/2 Copilot Instruction.md
+      - Copilot Agent mode: Copilot/3 Copilot Agent mode.md
+    - Math:
+      - 2D rotation about a point: Math/2D rotation about a point.md
+      - Determine where two circles intersect: Math/Determine where two circles intersect.md
+      - find the points at which two circles intersect: Math/find the points at which two circles intersect.md
+      - Rotation Matrix: Math/Rotation Matrix.md
 
 # Theme
 theme:
