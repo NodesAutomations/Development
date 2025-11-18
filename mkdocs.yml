@@ -40,6 +40,18 @@ nav:
       - Determine where two circles intersect: Math/Determine where two circles intersect.md
       - find the points at which two circles intersect: Math/find the points at which two circles intersect.md
       - Rotation Matrix: Math/Rotation Matrix.md
+    - Camtasia:
+      - Add text with glassy background: Camtasia/Add text with glassy background.md
+      - Camtasia Skill share Tutorial Notes: Camtasia/Camtasia Skill share Tutorial Notes.md
+      - Create Wallpaper: Camtasia/Create Wallpaper.md
+      - Settings: Camtasia/Settings.md
+    - Visual Studio:
+      - Debugging Settings: Visual Studio/Debugging Settings.md
+      - Debugging Visual Studio: Visual Studio/Debugging Visual Studio.md
+      - files: Visual Studio/files.md
+      - Settings: Visual Studio/Settings.md
+      - Visual Studio Clean Installation: Visual Studio/Visual Studio Clean Installation.md
+      - Visual Studio Shortcuts: Visual Studio/Visual Studio Shortcuts.md
 
 # Theme
 theme:
