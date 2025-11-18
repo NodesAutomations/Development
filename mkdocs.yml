@@ -1,7 +1,6 @@
 # Site settings
 site_name: Development
 site_url: https://nodesautomations.com/Development/
-use_directory_urls: false
 
 # Navigation Tree
 nav:
@@ -20,6 +19,18 @@ nav:
     - Visual Studio Code: Visual Studio Code.md
     - Windows Terminal: Windows Terminal.md
     - Youtube: Youtube.md
+    - Github:
+      - Github Basics: Github/1 Github Basics.md
+      - Github Keyboard Shortcuts: Github/2 Github Keyboard Shortcuts.md
+      - Github Markdown: Github/3 Github Markdown.md
+      - Github Repo Naming System: Github/4 Github Repo Naming System.md
+    - AutoCAD:
+      - Anonymous Blocks: AutoCAD/Anonymous Blocks.md
+      - Commands: AutoCAD/Commands.md
+      - Custom Cuix: AutoCAD/Custom Cuix.md
+      - Custom Tool Pallets: AutoCAD/Custom Tool Pallets.md
+      - Open Autocad Files as read Only: AutoCAD/Open Autocad Files as read Only.md
+      - Settings: AutoCAD/Settings.md
 
 # Theme
 theme:
