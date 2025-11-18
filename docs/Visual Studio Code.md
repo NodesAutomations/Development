@@ -1,3 +1,12 @@
+## Tips
+- Bind Double Shift to your most used commands
+- you can drag and drop media to markdown file, just press shift before droping
+
+## Shortcuts
+- `CTRL` + `SHIFT` + `E` : Switch between navigation and edito
+- `ALT` + `Mouse Click` : Multi select at different places
+- `ALT` + `CTRL` + `Up/Down` : Edit multiple line
+
 ## Settings
 
 ### Exclude files from side bar for python development
@@ -10,3 +19,4 @@
 ### To open file in it's specific folder 
 - Install `Open in External App` Extension 
 - just right click on file and choose first option "Open in External App"
+
