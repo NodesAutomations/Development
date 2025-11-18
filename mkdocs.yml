@@ -6,19 +6,19 @@ use_directory_urls: false
 nav:
   - Home:
     - docs/index.md
-  - CMD: docs/CMD.md
-  - Excel: docs/Excel.md
-  - Google: docs/Google.md
-  - Powerpoint: docs/Powerpoint.md
-  - PowerToys: docs/PowerToys.md
-  - Reddit: docs/Reddit.md
-  - Regular Expressions: docs/Regular Expressions.md
-  - Software for Documentations: docs/Software for Documentations.md
-  - Staad RCDC: docs/Staad RCDC.md
-  - Twitter: docs/Twitter.md
-  - Visual Studio Code: docs/Visual Studio Code.md
-  - Windows Terminal: docs/Windows Terminal.md
-  - Youtube: docs/Youtube.md
+    - CMD: docs/CMD.md
+    - Excel: docs/Excel.md
+    - Google: docs/Google.md
+    - Powerpoint: docs/Powerpoint.md
+    - PowerToys: docs/PowerToys.md
+    - Reddit: docs/Reddit.md
+    - Regular Expressions: docs/Regular Expressions.md
+    - Software for Documentations: docs/Software for Documentations.md
+    - Staad RCDC: docs/Staad RCDC.md
+    - Twitter: docs/Twitter.md
+    - Visual Studio Code: docs/Visual Studio Code.md
+    - Windows Terminal: docs/Windows Terminal.md
+    - Youtube: docs/Youtube.md
 
 # Theme
 theme:
