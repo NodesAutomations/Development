@@ -2,6 +2,11 @@
 site_name: Development
 site_url: https://nodesautomations.com/Development/
 
+# Repository Details for "Edit on GitHub" links
+repo_name: Development
+repo_url: https://github.com/NodesAutomations/Development
+edit_uri: edit/main/docs/
+
 # Navigation Tree
 nav:
   - Home:
