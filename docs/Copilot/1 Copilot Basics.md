@@ -17,6 +17,11 @@
   - `doc` to generate documentation
   - `optimize` to improve running code time or reduce line of code without  changing it's final output
 
+### Tips for Chat modes
+- Use ask mode for complicated tasks that you don't know how to do this manually by yourself so you can verify the results before committing.
+- Use agent mode for the simpler task that you know how to do this manually but don't want to spend time on it.
+- use plan mode for the intensive task that might use lot of tokens.
+
 ### Visual Studio Code
 - `CTRL` + `I` to use inline Chat, this is good option to generate new code or modify existing code
 - `CTRL` + `Enter` to view alternative suggestion in separate chat window
