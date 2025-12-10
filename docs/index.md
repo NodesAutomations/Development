@@ -1,4 +1,16 @@
-# My Software List
+# My Favorite Tools
+
+## Web tools
+
+### Code
+
+- [regexr](https://regexr.com/)
+  - will help you figure out/test regular expression pattern
+  - Option to 
+    - See all mathches visually as well as separately
+    - Display all groups
+    - Replace matches
+    - get details explaination for each segment of pattern
 
 ## Development Tools 🔨
 
