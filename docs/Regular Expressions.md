@@ -7,11 +7,8 @@
   - Check validity fo user input
     - like if user given input is valid email id, licensekey)
     - If given data contain specific info like string contain numbers or symbols
-<<<<<<< HEAD
     - Find and Replace text
     - Split Text
-=======
->>>>>>> 45e2e6faf522d9ab332a982e37c3b34ac42d8b25
   - Data extraction using pattern matching
 
 ## How to use it?
@@ -37,13 +34,7 @@ foreach (Match m in matches)
 999
 ```
 
-<<<<<<< HEAD
 ## Regex Cheat Sheet
-=======
-
-## Pattern
-
->>>>>>> 45e2e6faf522d9ab332a982e37c3b34ac42d8b25
 ```
 .       - Any Character Except New Line
 \d      - Digit (0-9)
