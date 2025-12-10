@@ -14,63 +14,30 @@
 
 ## Development Tools 🔨
 
-### IDE
+###  Visual Studio
+-   Community Edition 2026
+-   [Heatwave](https://www.firegiant.com/heatwave/)
+-   [Roslynator](https://github.com/JosefPihrt/Roslynator)
 
--   Visual Studio Community Edition 2019
-    -   [CodeMaid](https://marketplace.visualstudio.com/items?itemName=SteveCadwallader.CodeMaid)
-    -   [Roslynator](https://github.com/JosefPihrt/Roslynator)
-    -   [Add New File](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.AddNewFile&ssr=false#overview)
-    -   [Toggle Comment](https://marketplace.visualstudio.com/items?itemName=munyabe.ToggleComment)
-    -   wix Toolset
-    -   [Code Converter (VB - C#)](https://marketplace.visualstudio.com/items?itemName=SharpDevelopTeam.CodeConverter&ssr=false#review-details)
-    -   [The Essentials](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.BasicEssentials&ssr=false#overview)
-    -   [Markdown Editor](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.MarkdownEditor)
-    -   [Collapse Region](https://marketplace.visualstudio.com/items?itemName=VladH.CollapseRegionExtension&ssr=false#overview)
-    -   Visual Studio Installer
+### Visual Studio Code
+-   Material Theme (Dark)
+-   vscode-icons
+-   Markdown Preview Enhanced
+-   PowerShell Language Support for Visual Studio Code
+-   vscode-autohotkey
+-   VSCode VBA
+-   Terminal Here
 
-### Code Editors
-
--   Visual Studio Code
-
-    -   Material Theme (Dark)
-    -   vscode-icons
-    -   Markdown Preview Enhanced
-    -   PowerShell Language Support for Visual Studio Code
-    -   vscode-autohotkey
-    -   VSCode VBA
-    -   Terminal Here
--   NotePad++
-
-    -   User Define Languages
-    -   Syntax Highlighting with AHK, Staad, Midas
-    -   Run me Plugin
--   RubberDuck
-
-### Installer
-
--   Wix Installer
--   Squirrel.Windows
+### VBA Development
+- RubberDuck
+- xlwings vba
 
 ### Protector and Decompiler
+- Confuser
+- JustDeCompile
 
--   Confuser
--   JustDeCompile
-
-### License Tracting
-
--   Infralution License Tracker
-
-### Git
-
--   Source Tree
-    -   Git XL
--   Hosting
-    -   GitHub
-        -   [Enhanced GitHub](https://chrome.google.com/webstore/detail/enhanced-github/anlikcnbgdeidpacdbdljnabclhahhmd?hl=en)
-        -   [GitHub Dark Theme](https://chrome.google.com/webstore/detail/github-dark-theme/odkdlljoangmamjilkamahebpkgpeacp?hl=en)
-        -   [Octotree](https://chrome.google.com/webstore/detail/octotree/bkhaagjahfmjljalopjnoealnfndnagc?hl=en)
-        -   [File Icon for GitHub and GitLab](https://chrome.google.com/webstore/detail/file-icon-for-github-and/ficfmibkjjnpogdcfhfokmihanoldbfe?hl=en)
-    -   Bit Bucket
+### Infralution License Tracker
+- Manage Authenticated License
 
 ## Documentation and Editors 📋
 
@@ -83,7 +50,6 @@
 -   Obsidian
 
 ### Document Convertor
-
 -   Pandoc
 
 ### Office work
