@@ -26,9 +26,14 @@
 -   VSCode VBA
 -   Terminal Here
 
-### VBA Development
-- RubberDuck
-- xlwings vba
+### [RubberDuck](https://github.com/rubberduck-vba/Rubberduck)
+- Addin for Visual basic editor to help with coding
+- Works with almost every software that support vba coding
+- Direct integration with VIsual Basic editor
+- Code clean, Code Import Export for Git 
+
+###  [xlwings](https://www.xlwings.org/)
+- Command line tool to sync your excel vba code
 
 ### Protector and Decompiler
 - Confuser
