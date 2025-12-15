@@ -53,6 +53,8 @@ $       - End of a String
 [^ ]    - Matches Characters NOT in brackets
 |       - Either Or
 ( )     - Group
+(?: )   - Non capturing group
+
 
 Quantifiers:
 *       - 0 or More
