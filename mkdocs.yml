@@ -7,88 +7,24 @@ repo_name: Development
 repo_url: https://github.com/NodesAutomations/Development
 edit_uri: edit/main/docs/
 
-# Navigation Tree
-nav:
-  - Home:
-    - index.md
-    - CMD: CMD.md
-    - Excel: Excel.md
-    - Google: Google.md
-    - Powerpoint: Powerpoint.md
-    - PowerShell: PowerShell.md
-    - PowerToys: PowerToys.md
-    - Reddit: Reddit.md
-    - Regular Expressions: Regular Expressions.md
-    - Software for Documentations: Software for Documentations.md
-    - Staad RCDC: Staad RCDC.md
-    - STAAD Pro: STAAD Pro.md
-    - Twitter: Twitter.md
-    - Visual Studio Code: Visual Studio Code.md
-    - Windows Terminal: Windows Terminal.md
-    - Youtube: Youtube.md
-    - Github:
-      - Github Basics: Github/1 Github Basics.md
-      - Github Keyboard Shortcuts: Github/2 Github Keyboard Shortcuts.md
-      - Github Markdown: Github/3 Github Markdown.md
-      - Github Repo Naming System: Github/4 Github Repo Naming System.md
-    - AutoCAD:
-      - Anonymous Blocks: AutoCAD/Anonymous Blocks.md
-      - Commands: AutoCAD/Commands.md
-      - Custom Cuix: AutoCAD/Custom Cuix.md
-      - Custom Tool Pallets: AutoCAD/Custom Tool Pallets.md
-      - Open Autocad Files as read Only: AutoCAD/Open Autocad Files as read Only.md
-      - Settings: AutoCAD/Settings.md
-    - Copilot:
-      - Copilot Basics: Copilot/1 Copilot Basics.md
-      - Copilot Instruction: Copilot/2 Copilot Instruction.md
-      - Copilot Agent mode: Copilot/3 Copilot Agent mode.md
-    - Math:
-      - 2D rotation about a point: Math/2D rotation about a point.md
-      - Determine where two circles intersect: Math/Determine where two circles intersect.md
-      - find the points at which two circles intersect: Math/find the points at which two circles intersect.md
-      - Rotation Matrix: Math/Rotation Matrix.md
-    - Camtasia:
-      - Add text with glassy background: Camtasia/Add text with glassy background.md
-      - Camtasia Skill share Tutorial Notes: Camtasia/Camtasia Skill share Tutorial Notes.md
-      - Create Wallpaper: Camtasia/Create Wallpaper.md
-      - Settings: Camtasia/Settings.md
-    - Visual Studio:
-      - Debugging Settings: Visual Studio/Debugging Settings.md
-      - Debugging Visual Studio: Visual Studio/Debugging Visual Studio.md
-      - files: Visual Studio/files.md
-      - Settings: Visual Studio/Settings.md
-      - Visual Studio Clean Installation: Visual Studio/Visual Studio Clean Installation.md
-      - Visual Studio Shortcuts: Visual Studio/Visual Studio Shortcuts.md
-    - Midas Civil:
-      - Files: Midas Civil/Files.md
-      - How to Merge Midas Model: Midas Civil/How to Merge Midas Model.md
-      - Midas Civil Installation: Midas Civil/Midas Civil Installation.md
-      - Moving Loads: Midas Civil/Moving Loads.md
-      - Utilize DXF import and export in Midas Civil: Midas Civil/Utilize DXF import and export in Midas Civil.md
-      - File Samples:
-        - Basic: Midas Civil/File Samples/Basic.md
-        - Floor Loads: Midas Civil/File Samples/Floor Loads.md
-        - Section file: Midas Civil/File Samples/Section file.md
-
 # Theme
 theme:
   name: material
   logo: assets/favicon.png
   favicon: assets/favicon.png
   palette:
-    # Palette toggle for dark mode
+    - scheme: default
+      primary: indigo
+      accent: indigo
+      toggle:
+          icon: material/brightness-7
+          name: Switch to dark mode
     - scheme: slate
       primary: black
       accent: indigo
       toggle:
           icon: material/brightness-4
           name: Switch to light mode
-    - scheme: default
-      primary: black
-      accent: indigo
-      toggle:
-          icon: material/brightness-7
-          name: Switch to dark mode
   features:
     - content.action.edit # Allows "Edit on GitHub" links
     - content.action.view # Allows "View on GitHub" links
@@ -100,6 +36,10 @@ theme:
     repo: fontawesome/brands/git-alt 
     edit: material/pencil 
     view: material/eye
+
+plugins:
+  - search
+  - awesome-nav
 
 # Extensions
 markdown_extensions:
@@ -136,5 +76,3 @@ extra:
       link: https://www.linkedin.com/in/vivekpatel-nodesautomations/
     - icon: fontawesome/brands/github
       link: https://github.com/orgs/NodesAutomations
-
-
