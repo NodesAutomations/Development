@@ -81,56 +81,7 @@
 **💡 Power Point Can be used to Record Screen When Needed Ribbon-->Insert-->Screen Recoding(media Group)**
 </aside>
 
-### Documentation
-
--   mkdocs
-    -   Material for MkDocs
--   DocFx
--   Sphinx
-
-## Programming 👨🏻‍💻
-
-### .Net
-
--   Visual Basic
--   C#
-
-### Office
-
--   VBA
-
-### Windows
-
--   Power Shell
--   CMD
-
-### Scripting
-
--   AutohotKey
--   PowerShell
-
-### Data Exchange
-
--   Json
-
-### Security
-
--   Encryption
-
-## Web 🌐
-
-### Search
-
--   Duck Duck Go
--   Google
-
-### Website Generation
-
--   WordPress
--   Github Pages
--   Notion Pages
--   mkdocs
-
+ 
 ### Flow Chart
 
 -   Whimsical
@@ -188,11 +139,6 @@
 -   Typora + One Drive
 -   [Obsidian](https://obsidian.md/)
 
-### Remote Desktop
-
--   TeamViewer
--   Anydesk
-
 ### Utilities
 
 -   <https://github.com/zhongyang219/TrafficMonitor>
@@ -208,11 +154,6 @@
     -   Campbell theme
     -   Cascadia Code PL Font
 -   TranslucentTB
-
-### Kindle
-
--   Calibre
--   Kindle Mate
 
 ## Android 📱
 
