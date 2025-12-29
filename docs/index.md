@@ -1,165 +1,99 @@
-# My Favorite Tools
+# Web Tools
 
-## Web tools
+## Tests
+- [Webcam test - Check camera online](https://webcammictest.com/)
+- [Speedtest by Ookla](https://www.speedtest.net/)
+- [Mouse Tester](https://mousetester.com/)
+- [White screen page](http://www.whitedisplay.com/)
 
-### [RegExr](https://regexr.com/)
-- will help you figure out/test regular expression pattern
-- Option to 
-  - See all mathches visually as well as separately
-  - Display all groups
-  - Replace matches
-  - get details explaination for each segment of pattern
+## Coding
+- [RegExr](https://regexr.com/)
 
-## Development Tools 🔨
+## Image Editor
+- [Change Colors in a PNG – Online PNG Maker](https://onlinepngtools.com/change-png-color)
+- [Canva](https://www.canva.com/)
+- [Instant Background Remover - Photoroom](https://www.photoroom.com/tools/background-remover)
+- [Photopea | Online Photo Editor](https://www.photopea.com/)
+- [DWG to PNG - Convert your DWG to PNG for Free Online](https://www.zamzar.com/convert/dwg-to-png/)
+- [TinyPNG – Compress PNG images](https://tinypng.com/)
+- [Compressor.io - optimize and compress JPEG photos and PNG images](https://compressor.io/compress)
+- [Change Image Background – remove.bg](https://www.remove.bg/t/change-background)
+- [Compress Image Online | compressImage.io](https://compressimage.io/)
+- [Convertio — File Converter](https://convertio.co/)
+- [Convert PNG, JPG files to SVG vectors online - Vectorizer.AI](https://vectorizer.ai/)
+- [AI Image Upscaler - Free Image Quality Enhancer](https://www.upscale.media/)
 
-###  Visual Studio
--   Community Edition 2026
--   [Heatwave](https://www.firegiant.com/heatwave/)
--   [Roslynator](https://github.com/JosefPihrt/Roslynator)
+## Graph
+- [Mermaid live editor](https://mermaid-js.github.io/mermaid-live-editor/)
 
-### Visual Studio Code
--   Material Theme (Dark)
--   vscode-icons
--   Markdown Preview Enhanced
--   PowerShell Language Support for Visual Studio Code
--   vscode-autohotkey
--   VSCode VBA
--   Terminal Here
+## Media
+- [unDraw - Open source illustrations for any idea](https://undraw.co/)
+- [Free SVG Illustrations For Websites (CC0 Licensed)](https://lukaszadam.com/illustrations)
+- [Freepik](https://www.freepik.com/)
+- [Vecteezy](https://www.vecteezy.com/)
+- [Top 11 Websites You Can Download High-Quality Images For Free](https://thenextscoop.com/websites-download-free-quality-images/)
+- [Beautiful Free Images & Pictures | Unsplash](https://unsplash.com/)
+- [Download Free Vector Art, Images, & Vector Graphics](https://www.freevectors.net/)
+- [1 million+ Stunning Free Images to Use Anywhere - Pixabay](https://pixabay.com/)
+- [Napkin AI](https://app.napkin.ai/page/CgoiCHByb2Qtb25lEiwKBFBhZ2UaJDY5YmU5ZTRmLTM5NDgtNGM3ZC04ZWVmLWVlMjI1YzM1MWU1Zg)
+- [Imgflip - Create and Share Awesome Images](https://imgflip.com/)
+- [Open Doodles](https://opendoodles.com/)
+- [illlustrations - open source illustrations kit](https://illlustrations.co/)
 
-### [RubberDuck](https://github.com/rubberduck-vba/Rubberduck)
-- Addin for Visual basic editor to help with coding
-- Works with almost every software that support vba coding
-- Direct integration with VIsual Basic editor
-- Code clean, Code Import Export for Git 
+## SEO
+- [Pingdom Tools](https://tools.pingdom.com/)
+- [GTmetrix | Website Speed and Performance Optimization](https://gtmetrix.com/)
 
-###  [xlwings](https://www.xlwings.org/)
-- Command line tool to sync your excel vba code
+## Icons
+- [Emoji Finder search results](https://emojifinder.com/book)
+- [Icons | Font Awesome](https://fontawesome.com/icons?d=gallery)
+- [imageMso List - Bert-Toolkit](https://bert-toolkit.com/imagemso-list.html)
+- [Iconfinder - 3,300,000+ free and premium vector icons](https://www.iconfinder.com/)
+- [Flaticon - Free vector icons - SVG, PSD, PNG, EPS & Icon Font](https://www.flaticon.com/)
+- [Notion Icons](https://www.notion.vip/icons/)
+- [Vector Logos, PNG Images, Templates Free Download | seeklogo](https://seeklogo.com/)
+- [Download free icons, music, stock photos, vectors](https://icons8.com/icons)
+- [SVG Repo - Free SVG Vectors and Icons](https://www.svgrepo.com/)
+- [Simple Image Resizer - Resize Images Online Free Without Losing Quality](https://www.simpleimageresizer.com/)
 
-### Protector and Decompiler
-- Confuser
-- JustDeCompile
+## Audio
+- [Audio Library - YouTube](https://www.youtube.com/audiolibrary/music?nv=1)
+- [30,000+ Free Music For Youtube Videos MP3 Download - Pixabay](https://pixabay.com/music/search/theme/music%20for%20youtube%20videos/)
+- [incompetech Music Search](https://incompetech.com/music/royalty-free/music.html)
+- [Copyright free music for creators | NCS (NoCopyrightSounds)](https://ncs.io/)
 
-### Infralution License Tracker
-- Manage Authenticated License
+## Apps
+- [Ninite - Install or Update Multiple Apps at Once](https://ninite.com/)
+- [PortableApps.com - Portable software for USB, portable, and cloud drives](https://portableapps.com/)
 
-## Documentation and Editors 📋
+## Downloader
+- [Social Media Photo & Video Downloader | Free Tool by Publer](https://publer.io/tools/media-downloader)
+- [MovierulzHD - Watch Multi Audio Movies Online Free Movierulz](https://1movierulzhd.guru/)
+- [MovierulzHD - Watch Multi Audio Movies Online Free Movierulz](https://1movierulzhd.my/)
+- [Get Into PC - Download Free Your Desired App](https://getintopc.com/)
+- [FileCR - THE BIGGEST SOFTWARE STORE](https://filecr.com/us-en/)
+- [Welcome • freemediaheckyeah](https://fmhy.net/)
 
-### Markdown Editors
+## Utility
+- [12ft Ladder](https://12ft.io/)
+- [Temp Mail - Disposable Temporary Email](https://temp-mail.org/en/)
+- [QRCode Monkey - The free QR Code Generator](https://www.qrcode-monkey.com/)
+- [Paste to Markdown](https://euangoddard.github.io/clipboard2markdown/)
+- [Time Converter and World Clock - Conversion at a Glance](https://www.worldtimebuddy.com/)
+- [ExtractTable - convert image to excel, extract tables from PDF](https://www.extracttable.com/demo.html)
+- [Complete list of github markdown emoji markup](https://gist.github.com/rxaviers/7360908)
+- [MassiveMark Playground | Convert AI Markdown to DOCX, PDF & HTML](https://www.bibcit.com/en/massivemark)
 
--   Typora
--   Visual Studio Code
--   Notable
--   NotePad++
--   Obsidian
+## PPT
+- [SlidesCarnival: Free PowerPoint & Google Slides Templates](https://www.slidescarnival.com/)
+- [Free Google Slides themes and Powerpoint templates | Slidesgo](https://slidesgo.com/)
+- [Download Free PowerPoint Templates - SlideModel.com](https://slidemodel.com/free-powerpoint-templates/)
+- [Internship for Students Presentation](https://slidesgo.com/theme/internship-for-students)
 
-### Document Convertor
--   Pandoc
+## PDF
+- [Web Page to PDF - Convert Web to PDF Online Free](https://webtopdf.com/)
+- [iLovePDF | Online PDF tools for PDF lovers](https://www.ilovepdf.com/)
 
-### Office work
-
--   Office 365 Business
--   Microsoft Teams
--   Grammarly
--   OneNote for General notes
--   Sticky notes
--   Office 2016
--   Notable for Markdown Notes
-
-### Image & Video Editor
-
--   Camtasia
--   Photoshop image Editing
--   Snagit for Screen shot Capture + Editing
--   Power Point for Screen Recoding
--   ScreenToGif
--   IconFinder Editor online icon editor
--   color Picker
--   Just Color Picker Portable
--   tinyPNG for image Compression
-
-<aside> 
-**💡 Power Point Can be used to Record Screen When Needed Ribbon-->Insert-->Screen Recoding(media Group)**
-</aside>
-
- 
-### Flow Chart
-
--   Whimsical
-    -   Mind Map
-    -   Flow Chart
--   Mermaid Live Editor
--   Lucidchart
-
-### Web Tools
-
--   Tiny Png
-
-    Api Key:p6LsSpRsZ5rY3QmX2pgkkTJcfwYVrsqS
-
-## Structure Engineering 🌉
-
-### Structure Design
-
--   Staad Pro
--   Midas Civil
-
-### CAD
-
--   ZwCad
--   Autocad
-
-## Windows Utilities 🧰
-
-### Browsers
-
--   Edge
-    -   [Improve YouTube](https://chrome.google.com/webstore/detail/improve-youtube-open-sour/bnomihfieiccainjcjblhegjgglakjdd)
-    -   [Google Search Keyboard Shortcuts](https://chrome.google.com/webstore/detail/google-search-keyboard-sh/iobmefdldoplhmonnnkchglfdeepnfhd?hl=en)
-    -   [Stay Focus](https://chrome.google.com/webstore/detail/stayfocusd/laankejkbhbdhmipfmgcngdelahlfoji/related?hl=en)
-    -   Lastpass
-    -   uBlock Origin
-    -   Notion Web clipper
-    -   Refined GitHub
-    -   Video DownloadHelper
-    -   [Weava Highlighter](https://chrome.google.com/webstore/detail/weava-highlighter-pdf-web/cbnaodkpfinfiipjblikofhlhlcickei/related)
--   FireFox
-    -   Lastpass
-    -   Pushbullet
-    -   AdblockPlus
-    -   Adblocker for Youtube
-    -   Clear Browsing Data
-    -   Video download helper
-    -   Keepa amazon Price Tracker
-    -   Flipkart price tracker
-
-### Notes
-
--   Notable + One Drive
--   OneNote
--   Typora + One Drive
--   [Obsidian](https://obsidian.md/)
-
-### Utilities
-
--   <https://github.com/zhongyang219/TrafficMonitor>
--   Wox Lancher
--   Power Toys
--   Everything
--   Chocolaty
--   Ditto : Clipboard manager
--   QuickLook : File Preview
--   IObit unlocker
--   net Speed Moniter
--   Windows Terminal
-    -   Campbell theme
-    -   Cascadia Code PL Font
--   TranslucentTB
-
-## Android 📱
-
-### Software
-- [Android Debloter Tool](https://github.com/0x192/universal-android-debloater)
-
-### Apps
--   [YouTube Vanced](https://vanced.app/)
--   [Blokada](https://blokada.org/)
+## Colors
+- [Trending Color Palettes - Coolors](https://coolors.co/palettes/trending)
+- [Color wheel, a color palette generator | Adobe Color](https://color.adobe.com/create/color-wheel)
