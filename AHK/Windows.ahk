@@ -45,6 +45,11 @@ return
 Run, C:\Users\%A_UserName%\OneDrive - NodesAutomations\SYW\Media Library
 return
 
+;Office Tools
+#5::
+Run, C:\Users\%A_UserName%\source\repos\0_Office Tools
+return
+
 ; Open Windows Terminal in current folder or default location
 #t::
 WinGetClass, class, A
