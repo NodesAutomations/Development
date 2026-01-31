@@ -32,6 +32,10 @@ MouseIsOver(WinTitle)
 !k:: Send { DOWN }
 !l:: Send { RIGHT }
 
+;Cursor Movement one word [ALT + SHIFT + i,j,k,l]
+!+j::Send ^{LEFT}
+!+l::Send ^{RIGHT}
+
 ;Mouse Movement Normal [CTRL + i,j,k,l]
 ^i:: MouseMove, 0, -D, , R
 ^j:: MouseMove, -D, 0, , R
