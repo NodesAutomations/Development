@@ -49,8 +49,12 @@ MouseIsOver(WinTitle)
 ^+l:: MouseMove, J, 0, , R
 
 ;Mouse Clicks [CTRL + U,O]
-^u:: Click left
-^o:: Click right
+^u::SendInput {Ctrl up}{Click left}
+^o::SendInput {Ctrl up}{Click right}
+
+;Mouse Clicks [CTRL+SHIFT + U,O]
+^+u::SendInput {Ctrl down}{Click left}
+^+o::SendInput {Ctrl down}{Click right}
 
 ; Open Windows Terminal in current folder or default location
 #t::
