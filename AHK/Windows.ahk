@@ -1,4 +1,4 @@
-﻿#NoEnv ; Recommended for performance and compatibility with future AutoHotkey releases.
+#NoEnv ; Recommended for performance and compatibility with future AutoHotkey releases.
 SendMode Input ; Recommended for new scripts due to its superior speed and reliability.
 SetWorkingDir %A_ScriptDir% ; Ensures a consistent starting directory.
 CoordMode, Mouse, Screen
@@ -35,6 +35,10 @@ MouseIsOver(WinTitle)
 ;Cursor Movement one word [ALT + SHIFT + i,j,k,l]
 !+j::Send ^{LEFT}
 !+l::Send ^{RIGHT}
+
+;Cursor Movement to Line Start/End [ALT + h,;]
+!h::Send {HOME}     ; h     ALT + RIGHT (Cursor to beginning of line)
+!;::Send {END}      ; ; ALT + LEFT  (Cursor to end of line)
 
 ;Mouse Movement Normal [CTRL + i,j,k,l]
 ^i:: MouseMove, 0, -D, , R
