@@ -6,7 +6,9 @@
 - This is a method to calculate the area of a triangle using the corner coordinates
 - Assume we have a triangle with vertices at coordinates (x1, y1), (x2, y2), and (x3, y3). 
 
-$$\text{Area} = 0.5 \times |x_1(y_2 - y_3) + x_2(y_3 - y_1) + x_3(y_1 - y_2)|$$
+$$
+\text{Area} = 0.5 \times |x_1(y_2 - y_3) + x_2(y_3 - y_1) + x_3(y_1 - y_2)|
+$$
 
 ### Trapezoid
 - The shoelace formula can also be used to calculate the area of a trapezoid with vertices at coordinates (x1, y1), (x2, y2), (x3, y3), and (x4, y4).
