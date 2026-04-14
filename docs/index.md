@@ -73,6 +73,7 @@
 - [Get Into PC - Download Free Your Desired App](https://getintopc.com/)
 - [FileCR - THE BIGGEST SOFTWARE STORE](https://filecr.com/us-en/)
 - [Welcome • freemediaheckyeah](https://fmhy.net/)
+- [Downloadly](https://downloadly.ir/)
 
 ## Utility
 - [12ft Ladder](https://12ft.io/)
