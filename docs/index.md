@@ -70,6 +70,7 @@
 - [PortableApps.com - Portable software for USB, portable, and cloud drives](https://portableapps.com/)
 
 ## Downloader
+- [Save the video - Linkedin Video Downloader](https://savethevideo.net/)
 - [Social Media Photo & Video Downloader | Free Tool by Publer](https://publer.io/tools/media-downloader)
 - [MovierulzHD - Watch Multi Audio Movies Online Free Movierulz](https://1movierulzhd.guru/)
 - [MovierulzHD - Watch Multi Audio Movies Online Free Movierulz](https://1movierulzhd.my/)
