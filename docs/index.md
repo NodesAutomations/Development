@@ -99,6 +99,7 @@
 ## PDF
 - [BentoPDF | PDF tools build for Privacy](https://www.bentopdf.com/index.html)
 - [Web Page to PDF - Convert Web to PDF Online Free](https://webtopdf.com/)
+- [Free PDF online Editor,Better versionof ILovePDF](https://www.ihatepdf.cv/)
 - [iLovePDF | Online PDF tools for PDF lovers](https://www.ilovepdf.com/)
 
 ## Colors
