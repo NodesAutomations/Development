@@ -19,7 +19,11 @@ features = [
   "content.code.copy",
   "navigation.path",
   "navigation.tabs",
+  "navigation.tabs.sticky", # Keep main tabs to remain visible while scrolling
   "navigation.indexes",
+  "navigation.top",   # Back-to-top button on long pages
+  "toc.follow",       # Keeps the active heading visible in the right sidebar
+  "search.highlight", # Highlights search terms on the destination page
 ]
 palette = [
   { scheme = "default", primary = "indigo", accent = "indigo", toggle = { icon = "material/brightness-7", name = "Switch to dark mode" } },
