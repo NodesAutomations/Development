@@ -1,7 +1,7 @@
 [project]
-site_name = "Civil Engineering"
+site_name = "Development"
 site_url = "https://nodesautomations.com/Development/"
-repo_name = "Civil"
+repo_name = "Development"
 repo_url = "https://github.com/NodesAutomations/Development"
 edit_uri = "edit/main/docs/"
 copyright = "Copyright &copy; 2027 Nodes Automations"
